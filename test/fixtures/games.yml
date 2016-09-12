@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2016-09-12 16:50:53
+  opponent: MyString
+  my_score: 1
+  opp_score: 1
+
+two:
+  date: 2016-09-12 16:50:53
+  opponent: MyString
+  my_score: 1
+  opp_score: 1
